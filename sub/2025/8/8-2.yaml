@@ -1,5 +1,6 @@
 clash订阅:
 - http://777.hz.cz/Clash-08011832.yaml
+- http://777.hz.cz/Clash-08021542.yaml
 - http://bit.ly/TGyzcjd_clash
 - http://bit.ly/TGyzcjd_meta
 - https://apps.apple.com/ru/app/karing/id6472431552
@@ -17,6 +18,10 @@ clash订阅:
 - https://raw.githubusercontent.com/AlienVPN402/Clash-Subscribe/main/index.html
 - https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
 - https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
+- https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/airport_merge_yaml.yml
+- https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml
+- https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.yml
+- https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/EternityAir.yml
 - https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
 - https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
 - https://raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
@@ -27,6 +32,7 @@ clash订阅:
 - https://xn--0rsr3ed8o.linuxdo.dev/sub?token=miaoqiqi-linuxdo
 v2订阅:
 - http://777.hz.cz/v2ray-08011832.txt
+- http://777.hz.cz/v2ray-08021542.txt
 - http://bit.ly/TGyzcjd_v2ray
 - https://fs.v2rayse.com/share/20250728/pjolfdeat5.txt
 - https://fs.v2rayse.com/share/20250730/z62vfagvqv.txt
@@ -47,55 +53,63 @@ v2订阅:
 - https://upld.zone.id/uploads/2zit6biq/zyzzzoao.txt
 - https://xxbodejxc.netlify.app/
 开心玩耍:
-- 可用流量:10418.61 GB                    http://j2s.buzz/v3/subscr?id=f956ef2dbd634a20ae5d2a2afce775d9
-- 可用流量:124.61 GB                    https://www.xg-hub.icu/api/v1/client/subscribe?token=f14c98d702b7fbb5e7209142eae91310
-- 可用流量:132.78 GB                    https://1a.xg-hub.icu/api/v1/client/subscribe?token=0e40f2eb1aa3ef01cb66d860f8d33aee
-- 可用流量:139.09 GB                    https://www.xg-hub.icu/api/v1/client/subscribe?token=49c88ca60ed3df61e297736d3e8446d9
-- 可用流量:162.03 GB                    https://2c.xg-hub.icu/api/v1/client/subscribe?token=fca28050a26e4665addd1e847f08801e
-- 可用流量:1667.63 GB                    http://9uc.buzz/v3/subscr?id=952797b621a04e66923930ef5c0efcdf
-- 可用流量:17749.46 GB                    https://007.xingfu.qzz.io/d88937d0-ce43-4bf8-9df6-d632810ba9ff
-- 可用流量:185.0 GB                    https://2c.xg-hub.icu/api/v1/client/subscribe?token=adb45b30bf9e2b3c011546d460942754
-- 可用流量:185.53 GB                    https://2c.xg-hub.icu/api/v1/client/subscribe?token=415d6882c2c0c1087a0673fb5a4611b8
-- 可用流量:189.09 GB                    https://2c.xg-hub.icu/api/v1/client/subscribe?token=f50ae039f9e0c35e839784373f49b7ab
-- 可用流量:2004.34 GB                    https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-- 可用流量:224.4 GB                    https://ne688.688997.xyz/api/v1/client/subscribe?token=a38de9a2b88c48248687332ad9ef3996
-- 可用流量:25.75 GB                    https://www.speedur.org:2096/sub/TWFlZGUxLDE3NTM4MTQ0NDEYR_9vzXGZo
-- 可用流量:2885.42 GB                    https://win3x.rainzone.site/sub/TRrCOpEhKqX71cTjSlW85f9GqPnBgnd/QXJ0ZW1pc3ZwbjExLDE3NTM4OTk5MzQBoOWwBEJFh
-- 可用流量:444.04 GB                    https://mly1.543412546.xyz/api/v1/client/subscribe?token=12fd0c2f1422fb58fdac24311bd28af8
-- 可用流量:490.09 GB                    https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
-- 可用流量:504.47 GB                    https://bbb.flylink.cyou/api/v1/client/subscribe?token=7c9f10e3a06bed1b3b3a91bc1ab4a35c
-- 可用流量:556.39 GB                    https://gw.dport.top/api/v1/client/subscribe?token=84a4da5791a31071729ed5e93cd8c692
-- 可用流量:558.19 GB                    https://hz.dport.top/api/v1/client/subscribe?token=924b8f4297a47da441cd0f767c8d05c9
-- 可用流量:566.63 GB                    https://sh.dport.top/api/v1/client/subscribe?token=91b22c7be8b9f91934599d8726819aba
-- 可用流量:574.87 GB                    https://sh.dport.top/api/v1/client/subscribe?token=d9b2e343b4039440511287e73bbbb687
-- 可用流量:585.23 GB                    https://hz.dport.top/api/v1/client/subscribe?token=618a1761c93ab4444b42a370c6222700
-- 可用流量:588.89 GB                    https://gw.dport.top/api/v1/client/subscribe?token=2edc98f9a6d57f7c6f46857bd49c8fad
-- 可用流量:590.33 GB                    https://sh.dport.top/api/v1/client/subscribe?token=8285acfb74c33fd25bd81154ea7044ef
-- 可用流量:593.38 GB                    https://sh.dport.top/api/v1/client/subscribe?token=26f937401b46195d31ad77a965028283
-- 可用流量:595.85 GB                    https://sh.dport.top/api/v1/client/subscribe?token=36998b09cb4d9d217a193bc9697c5284
-- 可用流量:595.94 GB                    https://hz.dport.top/api/v1/client/subscribe?token=401f8fe2b65f0e3012f5bc74fe8bb3a5
-- 可用流量:596.13 GB                    https://hz.dport.top/api/v1/client/subscribe?token=471e987cadaca66380a157d1880e5650
-- 可用流量:597.82 GB                    https://sh.dport.top/api/v1/client/subscribe?token=b2ead9dbe4be98833022f2c13bb31041
-- 可用流量:612.71 GB                    https://www.1112244.xyz/baipiao/cb3de016fc3a85ff30c5c8671600a0e5
-- 可用流量:753.19 GB                    https://wy.flylink.cyou/api/v1/client/subscribe?token=07e24cac52f0057b9903fc422d617ecf
-- 可用流量:775.4 GB                    https://wy.flylink.cyou/api/v1/client/subscribe?token=6c35942e0b926e46e07b4ccb63bbdf27
-- 可用流量:928.83 GB                    https://bbb.flylink.cyou/api/v1/client/subscribe?token=b7e9d485f7668175e5d0e3e4326f3a1d
-- 可用流量:93.98 GB                    https://kittycloud.xx.kg/api/d783756d1cba3f3c0a951d776326d331
+- 可用流量:10417.43 GB                    http://j2s.buzz/v3/subscr?id=f956ef2dbd634a20ae5d2a2afce775d9
+- 可用流量:11389.51 GB                    https://007.xingfu.qzz.io/d88937d0-ce43-4bf8-9df6-d632810ba9ff
+- 可用流量:123.13 GB                    https://www.xg-hub.icu/api/v1/client/subscribe?token=f14c98d702b7fbb5e7209142eae91310
+- 可用流量:131.45 GB                    https://1a.xg-hub.icu/api/v1/client/subscribe?token=0e40f2eb1aa3ef01cb66d860f8d33aee
+- 可用流量:136.05 GB                    https://www.xg-hub.icu/api/v1/client/subscribe?token=49c88ca60ed3df61e297736d3e8446d9
+- 可用流量:152.64 GB                    https://2c.xg-hub.icu/api/v1/client/subscribe?token=a824008eefedbfcc681fc53574866d5d
+- 可用流量:1557.53 GB                    http://9uc.buzz/v3/subscr?id=952797b621a04e66923930ef5c0efcdf
+- 可用流量:161.57 GB                    https://2c.xg-hub.icu/api/v1/client/subscribe?token=fca28050a26e4665addd1e847f08801e
+- 可用流量:180.81 GB                    https://2c.xg-hub.icu/api/v1/client/subscribe?token=adb45b30bf9e2b3c011546d460942754
+- 可用流量:183.13 GB                    https://2c.xg-hub.icu/api/v1/client/subscribe?token=f50ae039f9e0c35e839784373f49b7ab
+- 可用流量:184.99 GB                    https://2c.xg-hub.icu/api/v1/client/subscribe?token=415d6882c2c0c1087a0673fb5a4611b8
+- 可用流量:207.45 GB                    https://ne688.688997.xyz/api/v1/client/subscribe?token=a38de9a2b88c48248687332ad9ef3996
+- 可用流量:25.58 GB                    https://www.speedur.org:2096/sub/TWFlZGUxLDE3NTM4MTQ0NDEYR_9vzXGZo
+- 可用流量:2535.6 GB                    https://win3x.rainzone.site/sub/TRrCOpEhKqX71cTjSlW85f9GqPnBgnd/QXJ0ZW1pc3ZwbjExLDE3NTM4OTk5MzQBoOWwBEJFh
+- 可用流量:2883.81 GB                    https://link.oness.xyz/link/VjOQIWHVBLSGFpe2?clash=1
+- 可用流量:2894.26 GB                    https://link.oness.xyz/link/VjOQIWHVBLSGFpe2?sub=3
+- 可用流量:29916.13 GB                    https://aaasder.918918.shop/xqfSLJW4bq07ffw4/523ebd9f-0e2b-496e-8c95-e553929bb190/#default
+- 可用流量:349.86 GB                    https://subscription-Representation-price.a-coin-black.com/sub/R29kRmFyYXosMTc1NDEzODY0NQFdYr97bvVo
+- 可用流量:481.86 GB                    https://bayoeorescentpossessicoanseparateuneforescenphacommitte.adoptangelaboradvacotionclwonthorughconfrmcompimentdeseertaltar.org/link/oJTnsmtj35uVenAM?clash=2
+- 可用流量:489.8 GB                    https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
+- 可用流量:503.29 GB                    https://bbb.flylink.cyou/api/v1/client/subscribe?token=7c9f10e3a06bed1b3b3a91bc1ab4a35c
+- 可用流量:539.31 GB                    https://gw.dport.top/api/v1/client/subscribe?token=84a4da5791a31071729ed5e93cd8c692
+- 可用流量:547.55 GB                    https://gw.dport.top/api/v1/client/subscribe?token=2edc98f9a6d57f7c6f46857bd49c8fad
+- 可用流量:556.12 GB                    https://hz.dport.top/api/v1/client/subscribe?token=924b8f4297a47da441cd0f767c8d05c9
+- 可用流量:564.54 GB                    https://sh.dport.top/api/v1/client/subscribe?token=91b22c7be8b9f91934599d8726819aba
+- 可用流量:574.62 GB                    https://sh.dport.top/api/v1/client/subscribe?token=d9b2e343b4039440511287e73bbbb687
+- 可用流量:584.83 GB                    https://hz.dport.top/api/v1/client/subscribe?token=618a1761c93ab4444b42a370c6222700
+- 可用流量:589.12 GB                    https://sh.dport.top/api/v1/client/subscribe?token=8285acfb74c33fd25bd81154ea7044ef
+- 可用流量:591.96 GB                    https://sh.dport.top/api/v1/client/subscribe?token=26f937401b46195d31ad77a965028283
+- 可用流量:592.53 GB                    https://hz.dport.top/api/v1/client/subscribe?token=401f8fe2b65f0e3012f5bc74fe8bb3a5
+- 可用流量:595.32 GB                    https://bayoeorescentpossessicoanseparateuneforescenphocommitte.adoptangelaboradvacotionclwonthorughconfrmcompimentdeseertaltar.org/link/oJTnsmtj35uVenAM?clash=2
+- 可用流量:595.43 GB                    https://sh.dport.top/api/v1/client/subscribe?token=36998b09cb4d9d217a193bc9697c5284
+- 可用流量:595.49 GB                    https://hz.dport.top/api/v1/client/subscribe?token=471e987cadaca66380a157d1880e5650
+- 可用流量:597.16 GB                    https://www.1112244.xyz/baipiao/cb3de016fc3a85ff30c5c8671600a0e5
+- 可用流量:597.43 GB                    https://sh.dport.top/api/v1/client/subscribe?token=b2ead9dbe4be98833022f2c13bb31041
+- 可用流量:750.97 GB                    https://wy.flylink.cyou/api/v1/client/subscribe?token=07e24cac52f0057b9903fc422d617ecf
+- 可用流量:774.25 GB                    https://wy.flylink.cyou/api/v1/client/subscribe?token=6c35942e0b926e46e07b4ccb63bbdf27
+- 可用流量:844.65 GB                    https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
+- 可用流量:885.48 GB                    https://wy.flylink.cyou/api/v1/client/subscribe?token=ca13c468f2736c031b7e31b25bd83cbc
+- 可用流量:925.82 GB                    https://bbb.flylink.cyou/api/v1/client/subscribe?token=b7e9d485f7668175e5d0e3e4326f3a1d
+- 可用流量:93.51 GB                    https://kittycloud.xx.kg/api/d783756d1cba3f3c0a951d776326d331
 - 可用流量:931135488.0 GB                    https://xship.top/v1/subscribe?starlink=pro@ak22RsujzCYUkcqv_cU6ILMA
 - 可用流量:931135488.0 GB                    https://xship.top/v1/subscribe?starlink=pro@ak22RsujzCYUkcqv_cU6ILMA#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
 - 可用流量:931135488.0 GB                    https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G_#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
 - 可用流量:95096.93 GB                    https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;flag=clash
-- 可用流量:955.49 GB                    https://user.flylink.cyou/api/v1/client/subscribe?token=0fe63331eb181f6adf9e50c1e04dc153
-- 可用流量:978.76 GB                    https://aaa.flylink.cyou/api/v1/client/subscribe?token=9b45ad24686cff1c671890dfce2cf413
-- 可用流量:988.34 GB                    https://aaa.flylink.cyou/api/v1/client/subscribe?token=5aa3064a4aef7d1f53f55a1dcd921bf1
+- 可用流量:953.2 GB                    https://user.flylink.cyou/api/v1/client/subscribe?token=0fe63331eb181f6adf9e50c1e04dc153
+- 可用流量:976.12 GB                    https://aaa.flylink.cyou/api/v1/client/subscribe?token=9b45ad24686cff1c671890dfce2cf413
+- 可用流量:985.29 GB                    https://aaa.flylink.cyou/api/v1/client/subscribe?token=5aa3064a4aef7d1f53f55a1dcd921bf1
 - 可用流量:99.06 GB                    https://base64.bigwatermelon.org/s?token=6bd2964274968fcd0e5282fec90a3aa3
-- 可用流量:995.48 GB                    https://bbb.flylink.cyou/api/v1/client/subscribe?token=aa3eb6b04499f75bddfedd64a399bb24
+- 可用流量:994.53 GB                    https://bbb.flylink.cyou/api/v1/client/subscribe?token=aa3eb6b04499f75bddfedd64a399bb24
 机场订阅:
 - http://9uc.buzz/v3/subscr?id=952797b621a04e66923930ef5c0efcdf
 - http://j2s.buzz/v3/subscr?id=f956ef2dbd634a20ae5d2a2afce775d9
 - https://007.xingfu.qzz.io/d88937d0-ce43-4bf8-9df6-d632810ba9ff
 - https://1a.xg-hub.icu/api/v1/client/subscribe?token=0e40f2eb1aa3ef01cb66d860f8d33aee
 - https://2c.xg-hub.icu/api/v1/client/subscribe?token=415d6882c2c0c1087a0673fb5a4611b8
+- https://2c.xg-hub.icu/api/v1/client/subscribe?token=a824008eefedbfcc681fc53574866d5d
 - https://2c.xg-hub.icu/api/v1/client/subscribe?token=adb45b30bf9e2b3c011546d460942754
 - https://2c.xg-hub.icu/api/v1/client/subscribe?token=f50ae039f9e0c35e839784373f49b7ab
 - https://2c.xg-hub.icu/api/v1/client/subscribe?token=fca28050a26e4665addd1e847f08801e
@@ -104,8 +118,11 @@ v2订阅:
 - https://aaa.flylink.cyou/api/v1/client/subscribe?token=772efc7caf64f0608218c5448c934a19
 - https://aaa.flylink.cyou/api/v1/client/subscribe?token=9031a60d3611e9850ff19505f0ee0e2f
 - https://aaa.flylink.cyou/api/v1/client/subscribe?token=9b45ad24686cff1c671890dfce2cf413
+- https://aaasder.918918.shop/xqfSLJW4bq07ffw4/523ebd9f-0e2b-496e-8c95-e553929bb190/#default
 - https://base64.bigwatermelon.org/s?token=6bd2964274968fcd0e5282fec90a3aa3
 - https://bayoeorescentpossessicoanseparateuneforescenphacommitte.adoptangelaboradvacotionclwonthorughconfrmcompimentdeseertaltar.org/link/0wm7wr9zozzfUa15?clash=1
+- https://bayoeorescentpossessicoanseparateuneforescenphacommitte.adoptangelaboradvacotionclwonthorughconfrmcompimentdeseertaltar.org/link/oJTnsmtj35uVenAM?clash=2
+- https://bayoeorescentpossessicoanseparateuneforescenphocommitte.adoptangelaboradvacotionclwonthorughconfrmcompimentdeseertaltar.org/link/oJTnsmtj35uVenAM?clash=2
 - https://bbb.flylink.cyou/api/v1/client/subscribe?token=7c9f10e3a06bed1b3b3a91bc1ab4a35c
 - https://bbb.flylink.cyou/api/v1/client/subscribe?token=aa3eb6b04499f75bddfedd64a399bb24
 - https://bbb.flylink.cyou/api/v1/client/subscribe?token=b7e9d485f7668175e5d0e3e4326f3a1d
@@ -120,6 +137,8 @@ v2订阅:
 - https://hz.dport.top/api/v1/client/subscribe?token=924b8f4297a47da441cd0f767c8d05c9
 - https://hz.dport.top/api/v1/client/subscribe?token=9bc33e3a487e60f60dcc8240f36f9000
 - https://kittycloud.xx.kg/api/d783756d1cba3f3c0a951d776326d331
+- https://link.oness.xyz/link/VjOQIWHVBLSGFpe2?clash=1
+- https://link.oness.xyz/link/VjOQIWHVBLSGFpe2?sub=3
 - https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 - https://mly1.543412546.xyz/api/v1/client/subscribe?token=12fd0c2f1422fb58fdac24311bd28af8
 - https://ne688.688997.xyz/api/v1/client/subscribe?token=a38de9a2b88c48248687332ad9ef3996
@@ -132,6 +151,7 @@ v2订阅:
 - https://su4.kefu.email/api/yuanbao/dfe182bc321743ee36b2fe1ad9d94a4d
 - https://sub.xn--2vxn29amga.com/s/2611e8695041c3c1f5fdf19aa56bb4bc
 - https://subneko.v1999.sbs/study/xuexi/v999/hneko?token=393721cea19f3500bc83649acfbd3238
+- https://subscription-Representation-price.a-coin-black.com/sub/R29kRmFyYXosMTc1NDEzODY0NQFdYr97bvVo
 - https://user.flylink.cyou/api/v1/client/subscribe?token=0fe63331eb181f6adf9e50c1e04dc153
 - https://user.flylink.cyou/api/v1/client/subscribe?token=d1dee445175ba19cca8e33319e3468e1
 - https://win3x.rainzone.site/sub/TRrCOpEhKqX71cTjSlW85f9GqPnBgnd/QXJ0ZW1pc3ZwbjExLDE3NTM4OTk5MzQBoOWwBEJFh
@@ -142,6 +162,7 @@ v2订阅:
 - https://wy.flylink.cyou/api/v1/client/subscribe?token=07e24cac52f0057b9903fc422d617ecf
 - https://wy.flylink.cyou/api/v1/client/subscribe?token=6c35942e0b926e46e07b4ccb63bbdf27
 - https://wy.flylink.cyou/api/v1/client/subscribe?token=8982d48a7c7833bf8988a758944a4fe2
+- https://wy.flylink.cyou/api/v1/client/subscribe?token=ca13c468f2736c031b7e31b25bd83cbc
 - https://wy.flylink.cyou/api/v1/client/subscribe?token=d083596e273181d1fa67cb17ba532b08
 - https://xship.top/v1/subscribe?starlink=pro@ak22RsujzCYUkcqv_cU6ILMA
 - https://xship.top/v1/subscribe?starlink=pro@ak22RsujzCYUkcqv_cU6ILMA#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
